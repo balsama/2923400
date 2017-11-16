@@ -20,14 +20,13 @@
         "cweagans/composer-patches": "^1.6",
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/console": "^1.0.2",
-        "drupal/core": "8.3.7",
+        "drupal/core": "8.4.2",
         "drush/drush": "~8.0|^9.0.0-beta8",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
         "drupal/entity": "1.0.0-beta1",
-        "drupal/media_entity": "1.6.0",
-        "drupal/media_entity_document": "1.1.0",
-        "drupal/media_entity_image": "1.2.0"
+        "drupal/media_entity": "2.x-dev",
+        "drupal/media_entity_actions": "1.x-dev"
     },
     "require-dev": {
         "behat/mink": "~1.7",
