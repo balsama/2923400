@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "043f9f55fff12ea6283502aa5913cf84",
+    "content-hash": "9f31d1426ba19f3fef3bde2a49a76c55",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1722,8 +1722,7 @@
             "homepage": "https://www.drupal.org/project/media_entity",
             "support": {
                 "source": "http://cgit.drupalcode.org/media_entity"
-            },
-            "time": "2017-11-15T15:11:24+00:00"
+            }
         },
         {
             "name": "drupal/media_entity_actions",
