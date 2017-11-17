@@ -77,7 +77,7 @@
         "patches": {
             "drupal/media_entity": {
                 "2923400 - Source data for Image media entities lost during upgrade to core's Media module":
-                "https://www.drupal.org/files/issues/media_entity_upgrade_path_fix-2923400-6.patch"
+                "https://www.drupal.org/files/issues/media_entity_upgrade_path_fix-2923400-10.patch"
             }
         }
     }

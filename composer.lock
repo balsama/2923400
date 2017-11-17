@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9f31d1426ba19f3fef3bde2a49a76c55",
+    "content-hash": "879ff4167c6186bd744d640b65bbffc7",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1658,6 +1658,9 @@
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
                     }
+                },
+                "patches_applied": {
+                    "2923400 - Source data for Image media entities lost during upgrade to core's Media module": "https://www.drupal.org/files/issues/media_entity_upgrade_path_fix-2923400-6.patch"
                 }
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
