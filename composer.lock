@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "879ff4167c6186bd744d640b65bbffc7",
+    "content-hash": "fac035039044a9b35cc0fe48432eba26",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1660,7 +1660,7 @@
                     }
                 },
                 "patches_applied": {
-                    "2923400 - Source data for Image media entities lost during upgrade to core's Media module": "https://www.drupal.org/files/issues/media_entity_upgrade_path_fix-2923400-6.patch"
+                    "2923400 - Source data for Image media entities lost during upgrade to core's Media module": "https://www.drupal.org/files/issues/media_entity-source_data_for_image_media_entities_lost-2923400-15.patch"
                 }
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
@@ -1725,7 +1725,8 @@
             "homepage": "https://www.drupal.org/project/media_entity",
             "support": {
                 "source": "http://cgit.drupalcode.org/media_entity"
-            }
+            },
+            "time": "2017-11-15T15:11:24+00:00"
         },
         {
             "name": "drupal/media_entity_actions",
